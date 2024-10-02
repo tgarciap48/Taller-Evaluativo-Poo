@@ -1,0 +1,5 @@
+C:\Users\tmgarcia\Desktop\taller_evaluativo_poo\taller_evaluativo_poo\obj\Debug\net8.0\taller_evaluativo_poo.csproj.AssemblyReference.cache
+C:\Users\tmgarcia\Desktop\taller_evaluativo_poo\taller_evaluativo_poo\obj\Debug\net8.0\taller_evaluativo_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgarcia\Desktop\taller_evaluativo_poo\taller_evaluativo_poo\obj\Debug\net8.0\taller_evaluativo_poo.AssemblyInfoInputs.cache
+C:\Users\tmgarcia\Desktop\taller_evaluativo_poo\taller_evaluativo_poo\obj\Debug\net8.0\taller_evaluativo_poo.AssemblyInfo.cs
+C:\Users\tmgarcia\Desktop\taller_evaluativo_poo\taller_evaluativo_poo\obj\Debug\net8.0\taller_evaluativo_poo.csproj.CoreCompileInputs.cache
